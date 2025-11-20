@@ -52,12 +52,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_KULLANICI_ADIN&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SENIN_KULLANICI_ADIN&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsln44&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 <div align="center">
-  <a href="https://linkedin.com/in/SENIN_KULLANICI_ADIN">
+  <a href="https://www.linkedin.com/in/burak-arslan-701a4b220/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
