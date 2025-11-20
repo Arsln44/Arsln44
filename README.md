@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Arsln44&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
   <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lordum&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsln44&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 
 </div>
 
