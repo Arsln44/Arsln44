@@ -1,4 +1,4 @@
-# Hi there, I'm Lordum 👋
+# Hi there, I'm Burak 👋
 
 <div align="center">
   <p>
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h3>🔭 Currently: Full Stack Developer @ Finalizer (Spring Boot + React)</h3>
+  <h3>🔭 Currently: Full Stack Developer **Finalizer** (Spring Boot + React)</h3>
 </div>
 
 ---
@@ -24,7 +24,6 @@
 ## 🏗️ Frameworks & Libraries
 <div align="center">
   <img src="https://skillicons.dev/icons?i=spring,react,dotnet&theme=light" />
-  <img src="https://skillicons.dev/icons?i=java&theme=light" alt="javafx" />
 </div>
 
 ---
@@ -59,9 +58,9 @@
 
 ## 🧠 Summary Cards
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lordum&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lordum&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lordum&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arsln44&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arsln44&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arsln44&theme=tokyonight" />
 </div>
 
 ---
