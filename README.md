@@ -27,8 +27,9 @@ I don’t just write code — I design systems. As a developer deeply invested i
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsln44&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsln44&layout=compact&theme=onedark&hide=jupyter%20notebook&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arsln44&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arsln44&theme=tokyonight)
+
 
 ## 🏆 GitHub Trophies
 
